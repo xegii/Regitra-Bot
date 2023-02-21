@@ -102,6 +102,5 @@ driver.find_element_by_xpath("/html/body/div[1]/div[2]/div[2]/div[1]/form[1]/spa
 driver.find_element_by_xpath("/html/body/div[1]/div[2]/div[2]/div[1]/form[1]/span/span[2]/span/button").click()
 driver.find_element_by_xpath("/html/body/div[1]/div[2]/div[3]/div[1]/form[1]/span[11]/table/tbody/tr[2]/td/span/span/div/div[1]/select/option[12]").click()
 driver.find_element_by_xpath("/html/body/div[1]/div[2]/div[3]/div[1]/form[1]/div[2]/div/a/span[1]").click()
-time.sleep(5000)
 driver.find_element_by_xpath("/html/body/div[1]/div[2]/div[3]/div[1]/form[1]/div[3]/input").click()
 time.sleep(5000)
